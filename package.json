@@ -1,0 +1,44 @@
+{
+  "name": "@likun./cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "bin/cli.js",
+  "bin": {
+    "kl": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "kl",
+    "cli",
+    "vue",
+    "template"
+  ],
+  "author": "likun(273676636@qq.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likuner/CLI.git"
+  },
+  "dependencies": {
+    "acorn": "^8.5.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "compressing": "^1.5.1",
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "^6.0.1",
+    "request": "^2.88.2"
+  },
+  "files": [
+    "bin",
+    "commands",
+    "template",
+    "utils",
+    "package.json",
+    "readme.md"
+  ]
+}
