@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://github.com/likuner/CLI.git"
   },
+  "bugs": {
+    "url": "https://github.com/likuner/CLI/issues"
+  },
   "dependencies": {
     "acorn": "^8.5.0",
     "chalk": "^4.1.2",
