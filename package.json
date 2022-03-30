@@ -1,7 +1,7 @@
 {
   "name": "@likun./cli",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "A command line tool that can quickly generate template projects based on Vue",
   "main": "bin/cli.js",
   "bin": {
     "kl": "bin/cli.js"
